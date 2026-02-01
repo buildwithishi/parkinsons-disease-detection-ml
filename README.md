@@ -45,6 +45,11 @@ This project implements an end-to-end **supervised learning pipeline** for binar
 4. SVM classifier is trained on labeled patient data  
 5. Model is evaluated on unseen test data  
 6. System predicts Parkinson’s Disease status for new inputs  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ba198f8-eb01-4949-b71f-8cedefb1eb0e" width="400" />
+</p>
+
+
 
 ---
 
